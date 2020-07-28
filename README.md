@@ -16,9 +16,7 @@ Version
 If set the script will try and download a specific version. If not set it will download the latest.
 Force
 Overwrites the file without asking.
-Example:
-
-Downloads the Beta MSI into D:\Temp and overwrites any previous file already there.
+Downloads the MSI into C:\Temp and overwrites any previous file already there.
 
 Example:
 .\Download-MicrosoftEdge.ps1 -Channel Stable -Folder C:\temp -Force
