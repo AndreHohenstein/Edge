@@ -29,3 +29,5 @@ Example:
 
 Example:
 .\Download-MicrosoftEdge.ps1 -Channel Dev -Folder C:\temp -Force
+
+Happy Downloads ;)
